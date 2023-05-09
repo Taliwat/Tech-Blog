@@ -3,6 +3,7 @@ require('dotenv').config();
 
 let sequelize;
 
+//create new connection to a Sequelize db
 if (process.env.JAWSDB_URL) {
   sequelize = new Sequelize(process.env.JAWSDB_URL);
 } else {
