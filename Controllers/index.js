@@ -1,3 +1,4 @@
+//bring in ALL necessary routes to the index for referencing then export the router at end
 const router = require('express').Router();
 
 const apiRoutes = require('./api/');
