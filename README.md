@@ -10,7 +10,7 @@ This is an application that shows how a basic blog is used and works!
 
 ## Usage
 
--Check out the projects listed in the main page, and sort through as necessary for a short summary.  Lots coming soon! Also note the contact information if you would like to get in touch.
+-Use this app to create and edit posts, and use the dashboard to navigate around.
 
 
 ## 🤝 Credits
